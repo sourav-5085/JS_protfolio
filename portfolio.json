@@ -1,0 +1,60 @@
+{
+  "personal_details": {
+    "name": "Sourav jana",
+    "email": "souravjana4857@gmail.com",
+    "phone": "9641754857",
+    "photo": "external_image/my_pic.jpg",
+    "bio": "A passionate professional with experience in building scalable applications, solving complex problems, and creating intuitive user experiences.",
+    "address": {
+      "Vill": "Chandpur",
+      "PO": "Chandpur",
+      "PS": "Patashpur",
+      "Dist": "Purba Medinipur",
+      "State": "West Bengal"
+    }
+  },
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/sourav-jana-31a53b33b/",
+    "github": "https://github.com/sourav-5085"
+  },
+  "skills": {
+    "programming_languages": ["JavaScript", "Python", "C", "PHP"],
+    "frameworks_and_libraries": ["BootStrap", "Tailwind"],
+    "tools_and_platforms": ["Git", "Figma"]
+  },
+  "education": {
+    "graduation": {
+      "institution": "CONTAI COLLEGE OF LEARNING & MANAGEMENT SCIENCE",
+      "degree": "Bachelor of Compute Applications",
+      "start_date": "2024-06",
+      "end_date": "2027-05"
+    },
+    "hs": {
+      "institution": "CHANDPUR HAROCHARAN VIDYAMANDIR",
+      "degree": "Higher Secondary",
+      "start_date": "2023",
+      "end_date": "2024"
+    },
+    "secondary": {
+      "institution": "CHANDPUR HAROCHARAN VIDYAMANDIR",
+      "degree": "Secondary",
+      "start_date": "2021",
+      "end_date": "2022"
+    }
+  },
+  "projects": [
+    {
+      "title": "Blinkit",
+      "description": "Built a full-stack e-commerce platform with real-time inventory tracking, user authentication, and secure payment gateway integration.",
+      "tech_stack": ["Node.js", "React", "MongoDB", "Stripe API"],
+      "live_url": "https://sourav-5085.github.io/PROJECT-3/"
+    },
+    {
+      "title": "Weather Dashboard",
+      "description": "A dynamic weather dashboard that fetches real-time forecast data from a third-party REST API based on user location.",
+      "tech_stack": ["TypeScript", "Next.js", "Tailwind CSS"],
+      "live_url": "https://your-weather-demo.com",
+      "repo_url": "https://github.com/yourusername/weather-dashboard"
+    }
+  ]
+}
